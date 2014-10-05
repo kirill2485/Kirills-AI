@@ -12,6 +12,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	std::string kirill = "kirill";
 	//git test
 	//git test 1
+	//git commit test
 	std::cout << kirill << std::endl;
 }
 
